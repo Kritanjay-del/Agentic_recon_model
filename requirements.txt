@@ -3,4 +3,5 @@ pandas
 openpyxl
 langchain-experimental
 langchain_openai
+tabulate
 
